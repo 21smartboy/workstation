@@ -1,6 +1,5 @@
-Git is a distributed version contraol system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick AND simple.
-
+2023/11/11
+第一篇日志，内容为最近所写代码
+find_variety 是自定义的一个函数，用来将目标数据集内的以...开头的攻击类型归为一类
+label_classify 也是自定义的一个函数，用来将目标数据集内的标签以统一的名称命名
+然后就是使用了CICIDS2023数据集中一个part来实验，本次实验主要是熟悉数据的预处理过程，构建自己的数据集。
